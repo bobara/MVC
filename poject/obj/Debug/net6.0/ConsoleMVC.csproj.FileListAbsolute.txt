@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\BK 11b\ConsoleMVC\obj\Debug\net6.0\ConsoleMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\BK 11b\ConsoleMVC\obj\Debug\net6.0\ConsoleMVC.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\BK 11b\ConsoleMVC\obj\Debug\net6.0\ConsoleMVC.AssemblyInfo.cs
+C:\Users\Student\Documents\BK 11b\ConsoleMVC\obj\Debug\net6.0\ConsoleMVC.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\BK 11b\ConsoleMVC\bin\Debug\net6.0\ConsoleMVC.exe
+C:\Users\Student\Documents\BK 11b\ConsoleMVC\bin\Debug\net6.0\ConsoleMVC.deps.json
+C:\Users\Student\Documents\BK 11b\ConsoleMVC\bin\Debug\net6.0\ConsoleMVC.runtimeconfig.json
+C:\Users\Student\Documents\BK 11b\ConsoleMVC\bin\Debug\net6.0\ConsoleMVC.dll
+C:\Users\Student\Documents\BK 11b\ConsoleMVC\bin\Debug\net6.0\ConsoleMVC.pdb
+C:\Users\Student\Documents\BK 11b\ConsoleMVC\obj\Debug\net6.0\ConsoleMVC.dll
+C:\Users\Student\Documents\BK 11b\ConsoleMVC\obj\Debug\net6.0\refint\ConsoleMVC.dll
+C:\Users\Student\Documents\BK 11b\ConsoleMVC\obj\Debug\net6.0\ConsoleMVC.pdb
+C:\Users\Student\Documents\BK 11b\ConsoleMVC\obj\Debug\net6.0\ConsoleMVC.genruntimeconfig.cache
+C:\Users\Student\Documents\BK 11b\ConsoleMVC\obj\Debug\net6.0\ref\ConsoleMVC.dll
